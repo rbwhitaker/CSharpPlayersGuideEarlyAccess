@@ -6,7 +6,7 @@ A place to track issues with The C# Player's Guide for patches and future editio
 
 The following items are things I want to do before calling the current version a beta:
 
-- [ ] Some cleanup for the challenges in the second half of Part 2. Conceptually, they won't change much, but I can do better than what some of those currently do, I think.
+- [x] Some cleanup for the challenges in the second half of Part 2. Conceptually, they won't change much, but I can do better than what some of those currently do, I think.
 - [ ] Splitting Part 2 into two parts (so Part 3 will become Part 4, and Part 4 will become Part 5, which is going to make a mess of some of the discussions here in Discord, because now it will depend on which version of the book you're on).
 - [ ] I want to put in some things for when a new person joins your party and when you pick up key items that is along the lines of "[X] joined your party!" and "You got the [X]!".
 - [ ] There are a couple of other story-related tweaks I want to put in there to tie off some loose ends in my mind, including a prologue.
