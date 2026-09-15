@@ -14,5 +14,5 @@ The following items are things I want to do before calling the current version a
 - [ ] I think I went overboard on the story in Part 1. I'm mostly okay with it, but I think I need to do some revision to trim out the fat. I probably don't want literal pages of narrative sections, and I've got that in one or two spots. Perhaps the epigraphs can offset that a bit, by being an alternative way to build up the world and lore.
 - [ ] I know I need to make a revised map, which will take a bit of time to think through. It's not just new chapters. The "advanced features" is now presented in the book as a single, small island. You don't visit different islands, but different villages on a single island. The map should reflect that. (Among other changes.)
 - [x] Fix any incomplete speed runs.
-- [ ] Add the pictures to the Cerulean Forge overview.
+- [x] Add the pictures to the Cerulean Forge overview.
 - [x] I've wanted to add in "Tactics" sections that summarize when to use one thing over another (like full properties vs. auto-properties, or public vs. private). These are intended to be one- or two-sentence summaries that supplement the longer description in the text.
